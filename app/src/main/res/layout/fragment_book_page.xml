@@ -26,7 +26,7 @@
             android:id="@+id/page_number"
             android:textSize="@dimen/gallery_book_page_number_size"/>
 
-        <moe.feng.nhentai.view.WheelProgressView
+        <de.heiryn.nhentai.view.WheelProgressView
             android:layout_width="64dp"
             android:layout_height="64dp"
             android:layout_marginTop="8dp"

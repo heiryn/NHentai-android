@@ -3,20 +3,20 @@
 
 	<PreferenceCategory android:key="application_settings" android:title="@string/category_options">
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="ui"
 			android:title="@string/category_ui"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="storage"
 			android:title="@string/settings_storage"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="search"
 			android:title="@string/clear_search_title"
 			android:summary="@string/clear_search_inputs"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="cache"
 			android:title="@string/clear_cache_title"
 			android:summary="@string/clear_cache"/>
@@ -27,35 +27,35 @@
 
 	<PreferenceCategory android:key="about" android:title="@string/category_about">
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="version"
 		    android:title="@string/set_title_app_version"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="license"
 		    android:title="@string/settings_license"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="github"
 		    android:title="@string/set_title_github"
 		    android:summary="@string/set_title_github_website"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="alipay"
 		    android:title="@string/set_title_alipay"
 		    android:summary="@string/set_title_alipay_address"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="google_plus"
 		    android:title="@string/set_title_google_plus"
 		    android:summary="@string/set_title_google_plus_summary"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="telegram"
 			android:title="@string/set_title_telegram"
 			android:summary="@string/set_title_telegram_link"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="google_plus_group"
 			android:title="@string/set_title_gpgroup"
 			android:summary="@string/set_title_gpgroup_link"/>

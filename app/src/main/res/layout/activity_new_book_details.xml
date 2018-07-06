@@ -6,7 +6,7 @@
 	tools:context=".ui.details.BookDetailsActivity">
 	<data>
 		<import type="android.view.View"/>
-		<variable name="vm" type="moe.feng.nhentai.ui.details.BookDetailsViewModel"/>
+		<variable name="vm" type="de.heiryn.nhentai.ui.details.BookDetailsViewModel"/>
 	</data>
 	<android.support.design.widget.CoordinatorLayout
 		android:id="@+id/coordinator_layout"
@@ -14,7 +14,7 @@
 		android:layout_height="match_parent"
 		android:fitsSystemWindows="true">
 
-		<moe.feng.nhentai.ui.widget.SwipeBackCoordinatorLayout
+		<de.heiryn.nhentai.ui.widget.SwipeBackCoordinatorLayout
 			android:id="@+id/swipe_back_layout"
 			android:layout_width="match_parent"
 			android:layout_height="match_parent"
@@ -237,7 +237,7 @@
 
 			</FrameLayout>
 
-		</moe.feng.nhentai.ui.widget.SwipeBackCoordinatorLayout>
+		</de.heiryn.nhentai.ui.widget.SwipeBackCoordinatorLayout>
 
 	</android.support.design.widget.CoordinatorLayout>
 </layout>

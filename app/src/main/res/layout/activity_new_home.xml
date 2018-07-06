@@ -13,7 +13,7 @@
 		android:orientation="vertical">
 
 		<!-- Status Bar Tint Background -->
-		<moe.feng.nhentai.view.StatusBarHeaderView
+		<de.heiryn.nhentai.view.StatusBarHeaderView
 			android:layout_width="match_parent"
 			android:layout_height="0dp"
 			android:visibility="gone"

@@ -3,9 +3,9 @@
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:app="http://schemas.android.com/apk/res-auto">
 	<data>
-		<import type="moe.feng.nhentai.util.ColorGenerator"/>
-		<import type="moe.feng.nhentai.ui.category.CategoryActivity"/>
-		<variable name="item" type="moe.feng.nhentai.model.Tag"/>
+		<import type="de.heiryn.nhentai.util.ColorGenerator"/>
+		<import type="de.heiryn.nhentai.ui.category.CategoryActivity"/>
+		<variable name="item" type="de.heiryn.nhentai.model.Tag"/>
 	</data>
 	<FrameLayout
 		android:layout_width="wrap_content"

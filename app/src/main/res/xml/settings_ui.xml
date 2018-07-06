@@ -3,12 +3,12 @@
 
 	<PreferenceCategory android:key="ui" android:title="@string/category_list">
 
-		<moe.feng.nhentai.view.pref.SwitchPreference
+		<de.heiryn.nhentai.view.pref.SwitchPreference
 			android:key="hd_image"
 		    android:title="@string/set_title_hd_image"
 		    android:summary="@string/set_title_hd_image_summary"/>
 
-		<moe.feng.nhentai.view.pref.Preference
+		<de.heiryn.nhentai.view.pref.Preference
 			android:key="card_count"
 			android:title="@string/set_title_cards_count"/>
 
@@ -16,12 +16,12 @@
 
 	<PreferenceCategory android:key="info_page" android:title="@string/category_details">
 
-		<moe.feng.nhentai.view.pref.SwitchPreference
+		<de.heiryn.nhentai.view.pref.SwitchPreference
 			android:key="full_image_preview"
 			android:title="@string/set_title_full_image_in_details"
 			android:summary="@string/set_title_full_image_in_details_summary"/>
 
-		<moe.feng.nhentai.view.pref.SwitchPreference
+		<de.heiryn.nhentai.view.pref.SwitchPreference
 			android:key="allow_standalone_task"
 			android:title="@string/set_title_allow_standalone_task"
 			android:summary="@string/set_title_allow_standalone_task_desc"/>
@@ -29,7 +29,7 @@
 	</PreferenceCategory>
 
 	<PreferenceCategory android:key="gallery" android:title="@string/category_gallery">
-		<moe.feng.nhentai.view.pref.SwitchPreference
+		<de.heiryn.nhentai.view.pref.SwitchPreference
 			android:key="gallery_image_compression"
 			android:title="@string/set_title_image_compression_in_gallery"
 			android:summary="@string/set_title_image_compression_in_gallery_summary"/>

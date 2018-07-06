@@ -2,7 +2,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:bind="http://schemas.android.com/apk/res-auto">
 	<data>
-		<variable name="item" type="moe.feng.nhentai.model.PictureUrl"/>
+		<variable name="item" type="de.heiryn.nhentai.model.PictureUrl"/>
 	</data>
     <LinearLayout
         android:orientation="vertical"
